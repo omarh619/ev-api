@@ -2,6 +2,9 @@ const express = require('express')
 const { get } = require('express/lib/response')
 const app = express()
 const PORT = 8000
+const cors = require('cors')
+
+cors()
 
 const evModel ={
     'taycan': {
