@@ -62,7 +62,68 @@ const evModel ={
                             'Base Price': '$62,990',
                             'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1ZMMcpxqVcIci6kGNEFu1K21wuc1rWj-7A&usqp=CAU',
                         
-                            },    
+                        },
+                        'i pace': {
+                            'make': 'jaguar',
+                            'EPA range': '234 miles',
+                            'Base Price': '$71,050',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqE9sTGZzv-8AWxPd_MeCRPGyu-RbA9lr_bg&usqp=CAU',
+                        
+                        },
+                        'xc40 recharge': {
+                            'make': 'volvo',
+                            'EPA range': '223 miles',
+                            'Base Price': '$56395',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfKbWNya5V6PzM95Trgjv6VY90jqLYVzrnA&usqp=CAU',
+                        
+                        },
+                        'mx30': {
+                            'make': 'mazda',
+                            'EPA range': '100 miles',
+                            'Base Price': '$34,695',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURLumcRiW7dBTM-aTLeleNusncvMKHi3qoQ&usqp=CAU',
+                        
+                        },
+                        'id4': {
+                            'make': 'volkswagen',
+                            'EPA range': '260 miles',
+                            'Base Price': '$41,995',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJua1iranTNf9DbDc_kqDZhsdEow8kFRiSA&usqp=CAU',
+                        
+                        },
+                        'mach e': {
+                            'make': 'ford',
+                            'EPA range': '305 miles',
+                            'Base Price': '$44,995',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLSoNBwWG5VMeJYqzUrTDWeTm-XdTRiQHVbGpLI3VPF-0SLUZACOpH0A6ovf6m2KXnso&usqp=CAU',
+                        
+                        },
+                        'ioniq 5': {
+                            'make': 'hyundai',
+                            'EPA range': '303 miles',
+                            'Base Price': '$44,875',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcUT_dnFrvsc0tQzpnkqDwt4xOe0H06ATfw&usqp=CAU',
+                        
+                        },
+                        'ev6': {
+                            'make': 'kia',
+                            'EPA range': '232 miles',
+                            'Base Price': '$42,115',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPTexGuz1lKIm2sL9Bde4zcEqHhQ_L0ZEBQ&usqp=CAU',
+                        
+                        },
+                        'model 3': {
+                            'make': 'Tesla',
+                            'EPA range': '272 miles',
+                            'Base Price': '$46,190',
+                            'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_Z3Fau2KJFzkBJKViw46rz4jH5CshzGd1g&usqp=CAU',
+                        
+                        },
+
+                        
+
+                            
+                                
                            
         
     
